@@ -15,7 +15,7 @@ We provide:
 ## Repositories
 
 - **[aifeels-spec](https://github.com/aifeels-org/aifeels-spec)** - Core specification and governance
-- **[aifeels-reference](https://github.com/aifeels-org/aifeels-reference)** - Reference implementation (Python) *(coming soon)*
+- **[aifeels-reference](https://github.com/aifeels-org/aifeels-reference)** - Reference implementation (Python) *(alpha)
 
 ## Current Status
 
