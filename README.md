@@ -15,7 +15,7 @@ We provide:
 ## Repositories
 
 - **[aifeels-spec](https://github.com/aifeels-org/aifeels-spec)** - Core specification and governance
-- **[aifeels-reference](https://github.com/aifeels-org/aifeels-reference)** - Reference implementation (Python)
+- **[aifeels-reference](https://github.com/aifeels-org/aifeels-reference)** - Reference implementation (Python) *(coming soon)*
 
 ## Current Status
 
@@ -30,43 +30,16 @@ We provide:
 - 🐛 Report [issues](https://github.com/aifeels-org/aifeels-spec/issues)
 - 📝 Submit [RFCs](https://github.com/aifeels-org/aifeels-spec/blob/main/RFC/README.md)
 
+## Contact
+
+- **General:** [GitHub Discussions](https://github.com/aifeels-org/aifeels-spec/discussions)
+- **Governance:** governance@aifeels.org
+- **Security:** security@aifeels.org
+
 ## License
 
-All specifications and reference implementations: Apache 2.0
+All specifications and reference implementations: [Apache 2.0](https://github.com/aifeels-org/aifeels-spec/blob/main/LICENSE)
 
 ---
 
 **Standards-compliant. Vendor-neutral. Community-driven.**
-```
-
-This will show on https://github.com/aifeels-org
-
----
-
-### 2. Add Organization Description & Website
-
-**How to do it:**
-1. Go to **Settings** tab (top right)
-2. Scroll to **"Profile"** section
-3. Fill in:
-
-**Description:**
-```
-Open standard for emotional state in agentic AI systems
-```
-
-**Email:** (optional, but professional)
-```
-hello@aifeels.org
-```
-*(You can set up a free email forward later, or use GitHub's contact form)*
-
-**Website:**
-```
-https://aifeels.org
-```
-*(Even if it doesn't exist yet, claim the domain intention)*
-
-**Twitter username:** (if you have one)
-```
-@aifeels
